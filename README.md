@@ -14,12 +14,11 @@
 3. What are your findings?
 - No missing values
 - date datatype is object need to be changed to datetime.
-- Unique Stations ID are 145 and Unique Stations name are 146, there are 2 stations with same id
-- There are 2 staions which started in 2012.
-- There is 1 station started in 2015.
-- There is 1 station which closed in january 2009.
-- There is 1 station who got renamed but station id is same.
-- Few Stations experienced 0 rides for 6+ months in 1 year.
+- Unique Stations ID are 145 and Unique Stations name are 146, there are 2 stations Skokie & Dempster-Skokie with same id 40140.
+- 'Morgan-Lake' & 'Oakton-Skokie' staions started in 2012.
+- 'Cermak-McCormick Place' started in 2015.
+- 'Washington/State' station got out of service in january 2009.
+- 10 Stations experienced 0 rides for 6+ months in 1 year, Reason maybe station is closed or under maintenance.
 
 
 4. What did you learn from the data?
